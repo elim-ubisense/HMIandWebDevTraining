@@ -1,2 +1,2 @@
 # HMIandWebDevTraining  
-Current token "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"
+Current token "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"
