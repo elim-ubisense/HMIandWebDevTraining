@@ -1,3 +1,7 @@
+<!-- Created this AppBase.vue to hold the bulk of the coding.
+ Allows us to lazyload 
+ -->
+
 <template>
   <div id="app">
   <div> Heres a map</div>

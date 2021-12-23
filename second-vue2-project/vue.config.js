@@ -1,3 +1,4 @@
+// Added this vue.config.js file and pasted this below
 module.exports = {
     configureWebpack: {
     devServer: {
