@@ -4,9 +4,9 @@
 
 <template>
   <div id="app">
-  <div> Heres a map</div>
+  <div> Here's a map</div>
   {{ test }}
-    <ubi-map></ubi-map>
+  <ubi-map></ubi-map>
 
   </div>  
 </template>
